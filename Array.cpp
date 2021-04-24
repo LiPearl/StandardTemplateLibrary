@@ -3,7 +3,7 @@
 #include <iostream>
 #include <string>
 //编译的时候 不需重复load
-
+//傻逼李珍珍
 #ifndef _ARRAY
 #define _ARRAY 1
 using namespace std;
